@@ -1,0 +1,994 @@
+96;Half-Life 2;9.2;Nov 16, 2004
+96;Grand Theft Auto V;7.8;Apr 14, 2015
+96;The Orange Box;9.3;Oct 10, 2007
+96;Half-Life;9.1;Oct 31, 1998
+96;BioShock;8.4;Aug 21, 2007
+95;Baldur's Gate II: Shadows of Amn;9.2;Sep 24, 2000
+95;Portal 2;8.8;Apr 19, 2011
+94;The Elder Scrolls V: Skyrim;8.1;Nov 11, 2011
+94;Mass Effect 2;8.7;Jan 26, 2010
+94;Grand Theft Auto: Vice City;8.8;May 12, 2003
+94;Civilization II;9.0;Feb 29, 1996
+94;Quake;8.8;Jun 22, 1996
+94;BioShock Infinite;8.5;Mar 26, 2013
+94;The Elder Scrolls IV: Oblivion;8.0;Mar 20, 2006
+94;Grim Fandango;9.1;Sep 30, 1998
+94;Diablo;8.7;Nov 30, 1996
+94;Sid Meier's Civilization IV;8.2;Oct 25, 2005
+93;The Witcher 3: Wild Hunt;9.1;May 19, 2015
+93;Company of Heroes;8.8;Sep 13, 2006
+93;Unreal Tournament 2004;8.9;Mar 16, 2004
+93;Starcraft II: Wings of Liberty;8.2;Jul 27, 2010
+93;Minecraft;7.4;May 10, 2009
+93;Grand Theft Auto III;8.4;May 20, 2002
+93;Homeworld;8.9;Aug 31, 1999
+93;Star Wars: Knights of the Old Republic;9.0;Nov 18, 2003
+93;World of Warcraft;7.2;Nov 23, 2004
+93;Grand Theft Auto: San Andreas;8.8;Jun 7, 2005
+92;Call of Duty 4: Modern Warfare;8.5;Nov 5, 2007
+92;Warcraft III: Reign of Chaos;9.1;Jul 3, 2002
+92;The Sims;7.9;Jan 31, 2000
+92;Sid Meier's Gettysburg!;7.7;Sep 30, 1997
+92;World Soccer Winning Eleven 7 International;7.9;Apr 9, 2004
+92;Team Fortress 2;9.2;Apr 8, 2008
+92;System Shock 2;9.1;Aug 11, 1999
+92;Tom Clancy's Splinter Cell: Chaos Theory;8.8;Mar 28, 2005
+92;Undertale;8.2;Sep 15, 2015
+92;Rome: Total War;9.1;Sep 22, 2004
+92;Thief: The Dark Project;9.1;Nov 30, 1998
+92;Age of Empires II: The Age of Kings;9.0;Sep 30, 1999
+92;Unreal Tournament (1999);9.1;Nov 30, 1999
+92;Sid Meier's Alpha Centauri;9.1;Feb 12, 1999
+92;Galactic Civilizations II: Twilight of the Arnor;8.4;Apr 30, 2008
+92;Tiger Woods PGA Tour 2003;6.0;Oct 31, 2002
+91;Dishonored;8.4;Oct 9, 2012
+91;Medal of Honor: Allied Assault;8.6;Jan 20, 2002
+91;Myth: The Fallen Lords;8.8;Oct 31, 1997
+91;World of Warcraft: Wrath of the Lich King;7.4;Nov 13, 2008
+91;F1 Challenge '99-'02;8.3;Jun 24, 2003
+91;Baldur's Gate;9.0;Nov 30, 1998
+91;IL-2 Sturmovik;8.7;Nov 18, 2001
+91;FreeSpace 2;8.8;Sep 30, 1999
+91;Metal Gear Solid V: The Phantom Pain;7.7;Sep 1, 2015
+91;Tom Clancy's Splinter Cell;8.6;Feb 19, 2003
+91;Crysis;8.0;Nov 13, 2007
+91;World of Warcraft: The Burning Crusade;7.9;Jan 16, 2007
+91;Tiger Woods PGA Tour 2005;4.6;Sep 20, 2004
+91;The Longest Journey;8.9;Nov 16, 2000
+91;Tony Hawk's Pro Skater 2;8.5;Oct 31, 2000
+91;Star Wars Jedi Knight: Dark Forces II;8.5;Sep 30, 1997
+91;Batman: Arkham Asylum;8.7;Sep 15, 2009
+91;Galactic Civilizations II: Dark Avatar;8.2;Feb 14, 2007
+91;The Operative: No One Lives Forever;8.9;Nov 9, 2000
+91;Battlefield 2;8.4;Jun 21, 2005
+91;Street Fighter IV;8.0;Jul 1, 2009
+91;Fallout 3;7.9;Oct 28, 2008
+91;Batman: Arkham City;8.6;Nov 22, 2011
+91;Fez;6.5;May 1, 2013
+91;Planescape: Torment;9.3;Nov 30, 1999
+91;Neverwinter Nights;8.1;Jun 16, 2002
+91;No One Lives Forever 2: A Spy in H.A.R.M.'s Way;8.7;Sep 30, 2002
+91;Dragon Age: Origins;8.6;Nov 3, 2009
+91;Mark of the Ninja;8.0;Oct 16, 2012
+91;Dark Souls II;7.1;Apr 25, 2014
+91;Call of Duty;8.5;Oct 29, 2003
+91;Madden NFL 2004;8.2;Aug 12, 2003
+90;The Sims 2;8.8;Sep 14, 2004
+90;World of Warcraft: Cataclysm;5.5;Dec 7, 2010
+90;World of Goo;8.5;Oct 21, 2008
+90;Spelunky;7.2;Aug 8, 2013
+90;Black & White;7.6;Mar 26, 2001
+90;Portal;9.3;Apr 8, 2008
+90;NHL 2001;6.9;Sep 28, 2000
+90;Tony Hawk's Pro Skater 3;8.6;Mar 28, 2002
+90;Deus Ex;9.3;Jun 26, 2000
+90;Half-Life 2: Episode Two;9.2;Oct 10, 2007
+90;Braid;8.6;Jan 26, 2010
+90;The Chronicles of Riddick: Escape From Butcher Bay - Developer's Cut;8.7;Dec 8, 2004
+90;Sid Meier's Civilization III;8.4;Oct 30, 2001
+90;Silent Hunter III;7.8;Mar 15, 2005
+90;Sid Meier's Civilization V;7.8;Sep 21, 2010
+90;Falcon 4.0: Allied Force;8.6;Jun 28, 2005
+90;Deus Ex: Human Revolution;8.5;Aug 23, 2011
+90;Dark Souls III;8.2;Apr 12, 2016
+90;Flight Simulator 2002;8.4;Oct 19, 2001
+90;Brothers: A Tale of Two Sons;8.5;Sep 3, 2013
+90;Dota 2;6.2;Jul 9, 2013
+90;Guild Wars 2;7.9;Aug 28, 2012
+90;Freedom Force;8.0;Mar 24, 2002
+90;GTR 2;8.7;Sep 29, 2006
+90;Grand Theft Auto IV;6.5;Dec 2, 2008
+90;Total War: Shogun 2;8.3;Mar 15, 2011
+90;Empire: Total War;6.9;Mar 3, 2009
+90;Command & Conquer: Red Alert;8.9;Oct 31, 1996
+89;Star Wars Jedi Knight II: Jedi Outcast;8.6;Mar 26, 2002
+89;The Walking Dead: A Telltale Games Series;8.7;Dec 11, 2012
+89;Age of Mythology;8.9;Nov 1, 2002
+89;Sacrifice;8.8;Nov 5, 2000
+89;The Witcher 3: Wild Hunt - Hearts of Stone;8.4;Oct 13, 2015
+89;Pillars of Eternity;8.3;Mar 26, 2015
+89;The Elder Scrolls III: Morrowind;9.0;May 1, 2002
+89;Rocksmith 2014 Edition;7.9;Oct 22, 2013
+89;Fallout;8.9;Sep 30, 1997
+89;World Soccer Winning Eleven 9;8.4;Apr 28, 2006
+89;Worldwide Soccer Manager 2005;8.7;Dec 7, 2004
+89;Left 4 Dead;9.2;Nov 18, 2008
+89;Left 4 Dead 2;8.5;Nov 17, 2009
+89;NASCAR Racing 2002 Season;5.8;Feb 14, 2002
+89;Mass Effect;8.6;May 28, 2008
+89;Combat Mission: Barbarossa to Berlin;8.3;Oct 29, 2002
+89;Homeworld: Cataclysm;8.9;Sep 7, 2000
+89;The Walking Dead: Episode 5 - No Time Left;8.9;Nov 21, 2012
+89;Guild Wars;8.4;Apr 26, 2005
+89;Borderlands 2;8.2;Sep 18, 2012
+89;Max Payne;9.1;Jul 23, 2001
+89;Out of the Park Baseball 15;7.2;Apr 21, 2014
+89;World in Conflict;8.1;Sep 18, 2007
+89;NASCAR Racing 4;8.2;Feb 6, 2001
+89;Duke Nukem 3D;8.8;Jan 31, 1996
+89;Far Cry;8.0;Mar 23, 2004
+89;FIFA Soccer 12;7.1;Sep 27, 2011
+89;XCOM: Enemy Unknown;8.2;Oct 9, 2012
+89;Mass Effect 3;5.4;Mar 6, 2012
+89;Rise of Nations;9.0;May 20, 2003
+89;NASCAR Racing 2003 Season;8.6;Feb 14, 2003
+89;Descent 3;8.3;Jun 14, 2000
+89;The Curse of Monkey Island;9.1;Oct 31, 1997
+89;Battlefield 3;7.5;Oct 25, 2011
+89;Battlefield 1942;8.6;Sep 10, 2002
+89;Madden NFL 2003;8.4;Aug 12, 2002
+89;DiRT 2;8.3;Dec 10, 2009
+89;Stardew Valley;8.5;Feb 26, 2016
+89;Prince of Persia: The Sands of Time;8.6;Nov 30, 2003
+89;Railroad Tycoon II;8.4;Oct 31, 1998
+88;Microsoft Flight Simulator 2004: A Century of Flight;8.2;Jul 29, 2003
+88;Medieval: Total War;8.8;Aug 19, 2002
+88;Mafia;9.1;Aug 27, 2002
+88;LIMBO;8.1;Aug 2, 2011
+88;Nuclear Throne;7.4;Dec 5, 2015
+88;Crusader Kings II: The Old Gods;8.8;May 28, 2013
+88;Assassin's Creed: Brotherhood;8.2;Mar 22, 2011
+88;Superbike 2001;6.5;Oct 9, 2000
+88;F.E.A.R.;8.3;Oct 17, 2005
+88;Kerbal Space Program;8.1;Apr 27, 2015
+88;Tribes 2;8.5;Mar 28, 2001
+88;Age of Empires II: The Conquerors Expansion;9.0;Aug 24, 2000
+88;Tiger Woods PGA Tour 2004;8.8;Sep 22, 2003
+88;Warcraft III: The Frozen Throne;9.0;Jul 1, 2003
+88;Starcraft;9.1;Apr 1, 1998
+88;Far Cry 3;8.2;Dec 4, 2012
+88;XCOM 2;7.0;Feb 5, 2016
+88;World Soccer Winning Eleven 8 International;8.5;Feb 16, 2005
+88;Torchlight II;8.6;Sep 20, 2012
+88;Myth II: Soulblighter;9.0;Nov 30, 1998
+88;Return to Castle Wolfenstein;8.7;Nov 19, 2001
+88;Shogo: Mobile Armor Division;8.9;Sep 30, 1998
+88;Thirty Flights of Loving;5.0;Aug 20, 2012
+88;Hearthstone: Heroes of Warcraft;6.3;Mar 11, 2014
+88;Medieval II: Total War;8.9;Nov 13, 2006
+88;F1 2002;7.6;Jun 13, 2002
+88;The Stanley Parable;8.0;Oct 17, 2013
+88;BioShock 2;8.0;Feb 9, 2010
+88;Counter-Strike: Source;8.9;Sep 26, 2005
+88;Starcraft II: Legacy of the Void;8.3;Nov 10, 2015
+88;Diablo III;4.0;May 15, 2012
+88;Rise of Nations: Thrones & Patriots;8.8;Apr 27, 2004
+88;Sid Meier's Pirates!;8.3;Nov 22, 2004
+88;EVE Online: Special Edition;7.8;Mar 10, 2009
+88;Guacamelee! Gold Edition;7.3;Aug 8, 2013
+88;Armadillo Run;8.2;Apr 22, 2006
+88;Dark Age of Camelot;8.9;Sep 1, 2001
+88;Baldur's Gate II: Throne of Bhaal;8.9;Jun 21, 2001
+88;Counter-Strike;9.3;Nov 8, 2000
+88;Tony Hawk's Pro Skater 4;8.4;Aug 27, 2003
+88;Ori and the Blind Forest;8.7;Mar 11, 2015
+88;Diablo II;8.8;Jun 29, 2000
+88;The Witcher 2: Assassins of Kings;8.5;May 17, 2011
+87;Plants vs. Zombies;8.9;Aug 18, 2009
+87;Doom 3;7.5;Aug 3, 2004
+87;Super Meat Boy;8.3;Apr 5, 2011
+87;Football Manager 2010;9.1;Nov 3, 2009
+87;Oddworld: Abe's Oddysee - New 'n' Tasty;7.8;Feb 25, 2015
+87;Tom Clancy's Splinter Cell: Pandora Tomorrow;8.0;Mar 23, 2004
+87;Europa Universalis II;8.8;Nov 12, 2001
+87;Burnout Paradise: The Ultimate Box;7.5;Feb 5, 2009
+87;Battlefield: Bad Company 2;8.3;Mar 2, 2010
+87;GRID;7.9;Jun 3, 2008
+87;Crypt of the NecroDancer;7.7;Apr 23, 2015
+87;Sins of a Solar Empire;8.2;Feb 4, 2008
+87;MechWarrior 4: Vengeance;8.2;Nov 23, 2000
+87;Thief II: The Metal Age;9.1;Feb 29, 2000
+87;Diablo II: Lord of Destruction;9.1;Jun 27, 2001
+87;Monkey Island 2 Special Edition: LeChuck's Revenge;9.0;Jul 7, 2010
+87;Half-Life 2: Episode One;8.6;Jun 1, 2006
+87;The Swapper;8.7;May 30, 2013
+87;Hitman 2: Silent Assassin;8.2;Oct 1, 2002
+87;Year Walk;7.0;Mar 6, 2014
+87;Max Payne 3;7.6;Jun 1, 2012
+87;TowerFall Ascension;6.6;Mar 11, 2014
+87;Battlefield 3: Armored Kill;7.0;Sep 11, 2012
+87;NHL 2002;8.7;Sep 17, 2001
+87;Icewind Dale;8.3;Jun 29, 2000
+87;The Witness;6.6;Jan 26, 2016
+87;Brothers in Arms: Road to Hill 30;7.1;Mar 15, 2005
+87;Kohan: Immortal Sovereigns;8.6;Mar 14, 2001
+87;Day of the Tentacle Remastered;7.9;Mar 21, 2016
+87;Dead Space 2;8.3;Jan 25, 2011
+87;Diablo III: Reaper of Souls;6.6;Mar 25, 2014
+87;Shogun: Total War Warlord Edition;8.7;Aug 13, 2001
+87;Serious Sam: The First Encounter;8.4;Mar 21, 2001
+87;Grand Prix 3;8.3;Aug 24, 2000
+87;Call of Duty: United Offensive;8.3;Sep 14, 2004
+87;Divinity: Original Sin;8.7;Jan 17, 2014
+87;Company of Heroes: Opposing Fronts;8.6;Sep 24, 2007
+87;Psychonauts;8.9;Apr 19, 2005
+87;Gears of War;7.8;Nov 6, 2007
+87;Out of the Park Baseball 4;7.8;Feb 28, 2002
+87;Europa Universalis IV;8.7;Aug 13, 2013
+87;NHL 2004;8.2;Sep 22, 2003
+87;Zeus: Master of Olympus;9.0;Oct 22, 2000
+87;World of Warcraft: Warlords of Draenor;6.0;Nov 13, 2014
+87;Warhammer 40,000: Dawn of War - Dark Crusade;8.9;Oct 9, 2006
+87;Commandos 2: Men of Courage;8.8;Sep 20, 2001
+86;Tales From The Borderlands: Episode 5 - The Vault of the Traveler;8.7;Oct 20, 2015
+86;Bastion;8.6;Aug 16, 2011
+86;Gone Home;5.4;Aug 15, 2013
+86;Pac-Man Championship Edition DX +;7.3;Sep 24, 2013
+86;Supreme Commander;8.3;Feb 20, 2007
+86;Total War: Shogun 2 - Fall of the Samurai;8.4;Mar 23, 2012
+86;Startopia;8.7;Jun 19, 2001
+86;Enemy Engaged: RAH-66 Comanche Versus Ka-52 Hokum;8.3;Jul 31, 2000
+86;Fallout 2;9.2;Sep 30, 1998
+86;Final Fantasy XIV: Heavensward;7.7;Jun 23, 2015
+86;Football Manager 2013;6.7;Nov 1, 2012
+86;Out of the Park Baseball 14;8.6;Apr 15, 2013
+86;The Witcher: Enhanced Edition;8.5;Sep 16, 2008
+86;Borderlands: The Secret Armory of General Knoxx;7.6;Feb 25, 2010
+86;Call of Duty 2;8.3;Oct 25, 2005
+86;Astebreed;7.3;May 30, 2014
+86;Ground Control;7.8;May 31, 2000
+86;Rise of the Tomb Raider;8.0;Jan 28, 2016
+86;Resident Evil 5;7.1;Sep 18, 2009
+86;Saints Row IV;7.4;Aug 20, 2013
+86;Black Mesa;9.0;Sep 14, 2012
+86;EverQuest: Omens of War;7.7;Sep 13, 2004
+86;Steel Beasts;8.4;Sep 24, 2000
+86;Total Annihilation;8.9;Sep 30, 1997
+86;Need for Speed: Hot Pursuit;6.7;Nov 16, 2010
+86;FIFA Soccer 13;6.6;Sep 25, 2012
+86;Sid Meier's Civilization IV: Beyond the Sword;8.6;Jul 23, 2007
+86;The Sims 3;7.6;Jun 2, 2009
+86;Freedom Force vs The 3rd Reich;7.7;Mar 8, 2005
+86;The Binding of Isaac: Rebirth;8.3;Nov 4, 2014
+86;Tribes: Ascend;7.7;Apr 12, 2012
+86;Titanfall;6.1;Mar 11, 2014
+86;Rayman Origins;8.4;Mar 29, 2012
+86;Her Story;5.7;Jun 24, 2015
+86;Starcraft II: Heart of the Swarm;7.9;Mar 12, 2013
+86;Mass Effect 2: Lair of the Shadow Broker;8.5;Sep 7, 2010
+86;LEGO Star Wars II: The Original Trilogy;8.3;Sep 12, 2006
+86;Dungeon Siege;7.9;Mar 31, 2002
+86;Crysis 2;6.7;Mar 22, 2011
+86;Call of Duty: Modern Warfare 2;4.1;Nov 10, 2009
+86;The Secret of Monkey Island: Special Edition;9.1;Jul 15, 2009
+86;Max Payne 2: The Fall of Max Payne;9.0;Oct 14, 2003
+86;Homeworld Remastered Collection;8.2;Feb 25, 2015
+86;Galactic Civilizations II: Dread Lords;8.0;Feb 21, 2006
+86;Tomb Raider;8.5;Mar 5, 2013
+86;Star Trek: Voyager Elite Force;8.2;Sep 20, 2000
+86;Worldwide Soccer Manager 2008;8.4;Oct 23, 2007
+86;IL-2 Sturmovik: Forgotten Battles;8.6;Mar 2, 2003
+86;Hyper Light Drifter;8.1;Mar 31, 2016
+86;DiRT 3;6.9;May 24, 2011
+86;Unreal Tournament 2003;8.1;Sep 30, 2002
+86;Age of Wonders II: The Wizard's Throne;8.4;Jun 12, 2002
+86;Links 2001;6.8;Oct 24, 2000
+86;EverQuest: The Ruins of Kunark;8.8;Mar 31, 2000
+86;Full Throttle;8.8;Apr 30, 1995
+86;The Lord of the Rings Online: Shadows of Angmar;8.1;Apr 24, 2007
+86;Pony Island;6.8;Jan 4, 2016
+86;Warhammer 40,000: Dawn of War;8.8;Sep 20, 2004
+86;Warhammer Online: Age of Reckoning;7.9;Sep 16, 2008
+86;Dead Space;8.0;Oct 20, 2008
+86;Bionic Commando Rearmed;7.0;Aug 13, 2008
+86;Command & Conquer: Red Alert 2 - Yuri's Revenge;9.0;Oct 10, 2001
+86;Europa Universalis;8.1;Feb 2, 2001
+86;Escape from Monkey Island;8.2;Nov 8, 2000
+86;IL-2 Sturmovik: 1946;8.8;Mar 13, 2007
+86;XCOM: Enemy Within;7.9;Nov 12, 2013
+86;Battlefield 3: Back to Karkand;7.2;Dec 13, 2011
+86;Heroes of the Storm;6.7;Jun 2, 2015
+86;Civilization III: Conquests;8.4;Nov 4, 2003
+86;Path of Exile;8.0;Jan 25, 2013
+86;Battlefield: Bad Company 2 Vietnam;8.1;Dec 18, 2010
+86;Assassin's Creed II;6.8;Mar 9, 2010
+86;The Elder Scrolls IV: Shivering Isles;8.4;Mar 26, 2007
+86;DiRT Rally;8.8;Dec 7, 2015
+86;Rocket League;8.1;Jul 7, 2015
+86;Allegiance;8.2;Mar 31, 2000
+85;The Talos Principle;8.5;Dec 11, 2014
+85;Cities: Skylines;8.9;Mar 10, 2015
+85;Falcon 4.0;8.0;Nov 30, 1998
+85;Tom Clancy's Rainbow Six;8.6;Jul 31, 1998
+85;Madden NFL 2005;6.4;Sep 14, 2004
+85;Legend of Grimrock II;8.0;Oct 15, 2014
+85;Sam & Max Episode 205: What's New, Beelzebub?;8.6;Apr 10, 2008
+85;Dragon Age: Inquisition;5.8;Nov 18, 2014
+85;Tales from the Borderlands: A Telltale Game Series;8.7;Apr 26, 2016
+85;Tom Clancy's Rainbow Six: Vegas;7.7;Dec 12, 2006
+85;City of Heroes;8.5;Apr 27, 2004
+85;SWAT 4;8.6;Apr 5, 2005
+85;Clive Barker's Undying;8.7;Feb 21, 2001
+85;EverQuest;8.2;Mar 16, 1999
+85;Warhammer 40,000: Dawn of War II;8.1;Feb 18, 2009
+85;Command & Conquer 3: Tiberium Wars;8.0;Mar 26, 2007
+85;Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien;8.2;Feb 26, 2013
+85;Hotline Miami;8.5;Oct 23, 2012
+85;Out of the Park Baseball 13;8.2;Apr 9, 2012
+85;Wizardry 8;8.6;Nov 14, 2001
+85;Aliens Versus Predator 2;8.7;Oct 31, 2001
+85;Operation Flashpoint: Cold War Crisis;9.0;Aug 30, 2001
+85;Tropico;8.4;Apr 5, 2001
+85;Giants: Citizen Kabuto;8.9;Dec 6, 2000
+85;NASCAR SimRacing;4.9;Feb 15, 2005
+85;The Lord of the Rings Online: Mines of Moria;8.3;Nov 17, 2008
+85;The Binding of Isaac: Afterbirth;8.1;Oct 30, 2015
+85;Amnesia: The Dark Descent;8.6;Feb 17, 2011
+85;GTR FIA Racing;8.6;May 3, 2005
+85;Football Manager 2011;8.4;Nov 23, 2010
+85;Dust: An Elysian Tail;8.5;May 24, 2013
+85;South Park: The Stick of Truth;8.6;Mar 4, 2014
+85;Dark Souls: Prepare to Die Edition;7.4;Aug 24, 2012
+85;Medieval II: Total War Kingdoms;8.8;Aug 28, 2007
+85;Shovel Knight;7.9;Jun 26, 2014
+85;DmC: Devil May Cry;6.7;Jan 24, 2013
+85;Peggle Deluxe;8.1;Feb 19, 2008
+85;Monopoly Tycoon;8.0;Sep 24, 2001
+85;Indigo Prophecy;8.3;Oct 2, 2005
+85;Prince of Persia: The Two Thrones;8.0;Dec 1, 2005
+85;Sam & Max Episode 204: Chariots of the Dogs;8.1;Mar 13, 2008
+85;Assetto Corsa;8.4;Dec 19, 2014
+85;Machinarium;8.8;Oct 16, 2009
+85;Frozen Synapse;7.7;May 26, 2011
+85;Valkyria Chronicles;8.3;Nov 11, 2014
+85;Freelancer;8.9;Mar 3, 2003
+85;Zenzizenzic;5.9;Jul 23, 2015
+85;The Wolf Among Us: Episode 1 - Faith;9.0;Oct 11, 2013
+85;Mega Man Legacy Collection;7.3;Aug 25, 2015
+85;Warhammer 40,000: Dawn of War II - Chaos Rising;8.7;Mar 11, 2010
+85;Far Cry 2;5.8;Oct 21, 2008
+85;The Walking Dead: Episode 3 - Long Road Ahead;8.4;Aug 29, 2012
+85;AudioSurf;8.8;Feb 15, 2008
+85;BattleBlock Theater;8.0;May 15, 2014
+85;Star Wars: Knights of the Old Republic II - The Sith Lords;8.4;Feb 8, 2005
+85;MVP Baseball 2005;8.1;Feb 22, 2005
+85;The Elder Scrolls III: Bloodmoon;8.5;Jun 3, 2003
+85;Rogue Legacy;7.9;Jun 27, 2013
+85;Chaos Reborn;8.4;Oct 26, 2015
+85;Thief: Deadly Shadows;8.4;May 25, 2004
+85;Football Manager 2014;5.4;Oct 30, 2013
+85;System Shock: Enhanced Edition;7.9;Sep 22, 2015
+85;EverQuest: Gates of Discord;6.8;Feb 9, 2004
+85;FIFA 2001 Major League Soccer;7.3;Oct 30, 2000
+85;Sid Meier's Civilization V: Brave New World;8.6;Jul 9, 2013
+85;Final Fantasy XI;7.5;Oct 28, 2003
+85;Serious Sam: The Second Encounter;8.5;Feb 4, 2002
+85;The Sims: Hot Date;7.9;Nov 12, 2001
+85;American McGee's Alice;8.2;Dec 6, 2000
+85;Trials Evolution: Gold Edition;6.7;Mar 21, 2013
+85;Warhammer 40,000: Dawn of War - Winter Assault;8.3;Sep 21, 2005
+85;Tony Hawk's Underground 2;7.9;Oct 4, 2004
+85;Papers, Please;8.5;Aug 8, 2013
+85;Star Wars: The Old Republic;5.9;Dec 20, 2011
+85;Anarchy Online: Shadowlands;8.7;Sep 8, 2003
+85;Dark Age of Camelot: Shrouded Isles;8.8;Dec 2, 2002
+85;Obsidian;8.3;Dec 31, 1996
+84;The Walking Dead: Episode 2 - Starved for Help;8.6;Jun 29, 2012
+84;Saints Row: The Third;8.1;Nov 15, 2011
+84;Fallout: New Vegas;8.5;Oct 19, 2010
+84;The Movies;8.3;Nov 8, 2005
+84;Neverwinter Nights: Hordes of the Underdark;8.6;Dec 2, 2003
+84;Command & Conquer: Generals;8.3;Feb 10, 2003
+84;Sid Meier's SimGolf;8.2;Jan 23, 2002
+84;Middle-earth: Shadow of Mordor;8.0;Sep 30, 2014
+84;SpaceChem;8.4;Mar 2, 2011
+84;Downwell;6.2;Oct 15, 2015
+84;Pinball FX 2;8.0;Oct 27, 2012
+84;Devil Daggers;6.7;Feb 18, 2016
+84;PlanetSide 2;7.0;Nov 20, 2012
+84;Enter the Gungeon;7.4;Apr 5, 2016
+84;GT Legends;8.6;Jan 23, 2006
+84;Hearthstone: Goblins Vs. Gnomes;6.6;Dec 8, 2014
+84;Space Rangers 2: Rise of the Dominators;9.0;Mar 27, 2006
+84;Tales From The Borderlands: Episode 1 - Zer0 Sum;8.4;Nov 25, 2014
+84;Puzzle Quest: Challenge of the Warlords;8.3;Oct 10, 2007
+84;Heroes of Might and Magic IV;7.6;Mar 29, 2002
+84;Command & Conquer: Red Alert 2;8.9;Oct 21, 2000
+84;Shogun: Total War;8.7;Jun 13, 2000
+84;DiRT;7.2;Jun 19, 2007
+84;Darkest Dungeon;8.0;Jan 19, 2016
+84;Super Street Fighter IV: Arcade Edition;7.8;Jul 13, 2011
+84;Football Manager 2012;8.0;Oct 20, 2011
+84;Guild Wars Factions;8.5;Apr 28, 2006
+84;80 Days (2015);6.1;Sep 29, 2015
+84;Spore;5.2;Sep 7, 2008
+84;Unity of Command;7.2;Nov 15, 2011
+84;Hearthstone: The Grand Tournament;4.0;Aug 24, 2015
+84;Metro Redux;8.0;Aug 26, 2014
+84;Time Gentlemen, Please!;7.6;Jul 2, 2009
+84;Europa Universalis IV: Wealth of Nations;8.4;May 29, 2014
+84;Mass Effect 3: Citadel;7.8;Mar 5, 2013
+84;Disciples II: Dark Prophecy;8.6;Jan 22, 2002
+84;Just Cause 2;7.7;Mar 23, 2010
+84;Crysis Warhead;7.9;Sep 16, 2008
+84;Assassin's Creed IV: Black Flag;7.7;Nov 19, 2013
+84;Age of Mythology: The Titans;8.7;Sep 30, 2003
+84;SimCity 4;8.7;Jan 12, 2003
+84;Microsoft Train Simulator;8.4;May 31, 2001
+84;Rise of Nations: Rise of Legends;8.5;May 9, 2006
+84;TOCA Race Driver 3;7.8;Feb 24, 2006
+84;FTL: Faster Than Light;8.4;Sep 14, 2012
+84;SOMA;8.2;Sep 22, 2015
+84;DEFCON: Everybody Dies;8.3;Mar 26, 2007
+84;Tron 2.0;8.3;Aug 26, 2003
+84;Brothers in Arms: Earned in Blood;7.3;Oct 6, 2005
+84;Grim Fandango Remastered;8.0;Jan 27, 2015
+84;The Lord of the Rings: The Battle for Middle-Earth II;7.5;Mar 2, 2006
+84;Battlefield Vietnam;7.4;Mar 16, 2004
+84;Medieval: Total War - Viking Invasion;8.8;May 7, 2003
+84;Fallout 4;5.4;Nov 10, 2015
+84;Guild Wars Nightfall;8.7;Oct 26, 2006
+84;The Binding of Isaac;8.3;Sep 28, 2011
+84;Enemy Territory: Quake Wars;8.3;Oct 2, 2007
+84;Trine 2;8.4;Dec 7, 2011
+84;Rift;7.3;Mar 1, 2011
+84;The Wolf Among Us: Episode 5 - Cry Wolf;8.8;Jul 8, 2014
+84;Shift 2: Unleashed;6.1;Mar 29, 2011
+84;Sid Meier's Civilization IV: Warlords;8.2;Jul 24, 2006
+84;Battlefield 1942: The Road to Rome;7.9;Feb 2, 2003
+84;Poseidon;8.4;Jun 25, 2001
+84;F1 2010;6.6;Sep 22, 2010
+84;Shatter;7.4;Mar 15, 2010
+84;Darwinia;7.9;Jun 12, 2006
+84;Ultimate General: Gettysburg;8.0;Oct 16, 2014
+83;Final Fantasy XI: Treasures of Aht Urhgan;7.6;Apr 18, 2006
+83;MDK2;8.4;May 31, 2000
+83;Gunpoint;8.4;Jun 3, 2013
+83;Beyond Good & Evil;8.7;Nov 19, 2003
+83;Anno 2070;7.0;Nov 17, 2011
+83;SMITE;8.3;Mar 25, 2014
+83;Halo: Combat Evolved;7.4;Sep 30, 2003
+83;Grim Dawn;8.9;Feb 25, 2016
+83;Silent Storm;8.9;Jan 20, 2004
+83;Command & Conquer: Generals - Zero Hour;9.0;Sep 22, 2003
+83;Homeworld 2;8.3;Sep 16, 2003
+83;Galactic Civilizations;8.1;Mar 26, 2003
+83;EverQuest: The Shadows of Luclin;7.2;Dec 2, 2001
+83;Orcs Must Die!;8.1;Oct 11, 2011
+83;Life is Strange;8.6;Jan 19, 2016
+83;Fable: The Lost Chapters;8.7;Sep 20, 2005
+83;Unreal Tournament III;8.0;Nov 19, 2007
+83;The Blackwell Epiphany;7.6;Apr 24, 2014
+83;The Lord of the Rings Online: Siege of Mirkwood;7.1;Dec 1, 2009
+83;Out of the Park Baseball 10;8.3;Jun 2, 2009
+83;Tomb Raider: Anniversary;8.0;Jun 5, 2007
+83;Need for Speed: Shift;5.7;Sep 15, 2009
+83;Hearts of Iron II;8.6;Jan 4, 2005
+83;FIFA Soccer 11;7.6;Sep 28, 2010
+83;Project CARS;7.0;May 6, 2015
+83;FIFA Soccer 2003;6.8;Nov 2, 2002
+83;Icewind Dale II;8.3;Aug 26, 2002
+83;Age of Empires;8.8;Sep 30, 1997
+83;EverQuest II: Echoes of Faydwer;8.4;Nov 13, 2006
+83;EverQuest II;7.3;Nov 8, 2004
+83;Terraria;8.5;May 16, 2011
+83;Final Fantasy XIV Online: A Realm Reborn;6.7;Aug 27, 2013
+83;Card Hunter (2013);7.9;Sep 12, 2013
+83;Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak;7.9;May 18, 2010
+83;This War of Mine;8.4;Nov 14, 2014
+83;Darksiders;7.7;Sep 23, 2010
+83;Tom Clancy's Rainbow Six 3: Raven Shield;8.9;Mar 19, 2003
+83;World of Outlaws: Sprint Cars;7.9;Feb 11, 2003
+83;Colin McRae Rally 2.0;8.4;Feb 14, 2001
+83;Combat Flight Simulator 2: WWII Pacific Theater;8.1;Oct 13, 2000
+83;Orcs Must Die! 2;7.9;Jul 30, 2012
+83;Prey;7.9;Jul 11, 2006
+83;Metal Gear Rising: Revengeance;7.9;Jan 9, 2014
+83;Starseed Pilgrim;6.3;Apr 16, 2013
+83;Age of Conan: Rise of the Godslayer;8.4;May 11, 2010
+83;Alan Wake;8.0;Feb 16, 2012
+83;Tiger Woods PGA Tour 2002;5.0;Feb 24, 2002
+83;Monaco: What's Yours Is Mine;7.7;Apr 24, 2013
+83;Transistor;8.3;May 20, 2014
+83;Helldivers;6.9;Dec 7, 2015
+83;Worldwide Soccer Manager 2009;8.1;Nov 18, 2008
+83;Call of Duty: World at War;7.5;Nov 10, 2008
+83;Torchlight;8.0;Jan 5, 2010
+83;Prison Architect;8.3;Oct 6, 2015
+83;Valdis Story: Abyssal City;8.1;Oct 30, 2013
+83;Crimson Skies;8.2;Sep 17, 2000
+83;RACE 07: Official WTCC Game;9.0;Oct 9, 2007
+83;SUPERHOT;7.6;Feb 25, 2016
+83;EverQuest II: Rise of Kunark;7.9;Nov 13, 2007
+83;Dark Age of Camelot: Catacombs;8.6;Dec 7, 2004
+83;Spore Creature Creator;8.1;Jun 17, 2008
+83;Colin McRae Rally 2005;7.0;Oct 28, 2004
+83;Tom Clancy's Splinter Cell: Conviction;5.2;Apr 27, 2010
+83;Tribes: Vengeance;7.6;Oct 12, 2004
+83;L.A. Noire: The Complete Edition;7.9;Nov 8, 2011
+83;GTR Evolution;8.2;Sep 2, 2008
+83;Life is Strange: Episode 5 - Polarized;8.4;Oct 20, 2015
+83;BROFORCE;8.0;Oct 15, 2015
+83;Independence War 2: Edge of Chaos;8.4;Aug 22, 2001
+83;Myst III: Exile;8.2;May 8, 2001
+83;Superbrothers: Sword & Sworcery EP;6.4;Apr 16, 2012
+83;Sid Meier's Civilization IV: Colonization;6.7;Sep 22, 2008
+83;Europa Universalis III;8.4;Jan 23, 2007
+83;F1 2011;7.2;Sep 20, 2011
+83;Prince of Persia: Warrior Within;8.4;Nov 30, 2004
+83;Danganronpa: Trigger Happy Havoc;7.6;Feb 18, 2016
+83;Counter-Strike: Global Offensive;7.8;Aug 21, 2012
+83;Outland;7.1;Sep 29, 2014
+83;MechWarrior 4: Mercenaries;8.6;Nov 7, 2002
+83;Metal Gear Solid;9.0;Sep 24, 2000
+82;Invisible, Inc.;8.0;May 12, 2015
+82;Dark Souls II: Crown of the Ivory King;7.8;Sep 29, 2014
+82;Red Faction: Guerrilla;7.5;Sep 15, 2009
+82;The Book of Unwritten Tales;8.2;Oct 28, 2011
+82;Capitalism II;9.0;Dec 16, 2001
+82;Rally Trophy;8.5;Nov 20, 2001
+82;Dawn of Discovery;8.8;Jun 17, 2009
+82;City of Villains;8.1;Oct 31, 2005
+82;Kentucky Route Zero - Act II;8.0;May 31, 2013
+82;Tom Clancy's Splinter Cell: Blacklist;7.4;Aug 20, 2013
+82;Act of War: Direct Action;8.5;Mar 15, 2005
+82;Sokobond;7.8;Aug 27, 2013
+82;Sam & Max Episode 105: Reality 2.0;8.4;Mar 29, 2007
+82;Bejeweled 3;8.0;Dec 7, 2010
+82;Dangerous Waters;8.8;Feb 22, 2005
+82;Tomb Raider: Legend;7.8;Apr 11, 2006
+82;Asheron's Call 2: Fallen Kings;8.8;Nov 20, 2002
+82;Gemini Rue;8.4;Feb 24, 2011
+82;Antichamber;8.2;Jan 31, 2013
+82;Neverwinter Nights 2;6.5;Oct 31, 2006
+82;Dragon Age: Origins - Awakening;7.7;Mar 16, 2010
+82;Door Kickers;8.2;Oct 20, 2014
+82;Hearthstone: Blackrock Mountain;6.4;Apr 2, 2015
+82;Rome: Total War Barbarian Invasion;8.4;Sep 27, 2005
+82;Hacknet;7.3;Aug 12, 2015
+82;Tales of Monkey Island Chapter 3: Lair of the Leviathan;7.8;Sep 29, 2009
+82;Neverwinter Nights 2: Mask of The Betrayer;8.8;Oct 9, 2007
+82;Sins of a Solar Empire: Rebellion;7.8;Jun 12, 2012
+82;Broken Sword: The Sleeping Dragon;7.6;Nov 17, 2003
+82;Age of Wonders: Shadow Magic;8.5;Jul 25, 2003
+82;Tom Clancy's Ghost Recon: Desert Siege;8.4;Mar 27, 2002
+82;Warlords Battlecry II;8.5;Mar 11, 2002
+82;Football Manager Live;2.9;Jan 23, 2009
+82;Marvel: Ultimate Alliance;8.3;Oct 24, 2006
+82;The Talos Principle: Road To Gehenna;7.6;Jul 23, 2015
+82;Lara Croft and the Guardian of Light;8.2;Sep 28, 2010
+82;Aquaria;8.3;Dec 7, 2007
+82;Need for Speed: Underground;8.3;Nov 17, 2003
+82;TrackMania Sunrise;8.5;May 6, 2005
+82;King's Quest Chapter 1: A Knight to Remember;7.2;Jul 28, 2015
+82;Dragon Age II;4.4;Mar 8, 2011
+82;Endless Legend;7.9;Apr 24, 2014
+82;Tom Clancy's Ghost Recon: Island Thunder;8.3;Sep 25, 2002
+82;S.T.A.L.K.E.R.: Shadow of Chernobyl;8.4;Mar 20, 2007
+82;Kero Blaster;6.9;May 11, 2014
+82;Monday Night Combat;7.3;Jan 24, 2011
+82;The Wolf Among Us: Episode 3 - A Crooked Mile;8.6;Apr 8, 2014
+82;Airborne Assault: Red Devils Over Arnhem;7.4;Jun 17, 2002
+82;Fallout Tactics: Brotherhood of Steel;7.9;Mar 14, 2001
+82;Need for Speed: Underground 2;8.5;Nov 9, 2004
+82;NHL Eastside Hockey Manager 2005;6.6;Oct 5, 2005
+82;Legend of Grimrock;8.1;Apr 11, 2012
+82;Dominions 3: The Awakening;8.1;Sep 29, 2006
+82;Bulletstorm;7.7;Feb 22, 2011
+82;Borderlands 2: Mr. Torgue's Campaign of Carnage;7.3;Nov 20, 2012
+82;Desktop Dungeons;8.2;Oct 17, 2010
+82;Fallout: New Vegas - Old World Blues;7.8;Jul 19, 2011
+82;Crusader Kings II;8.7;Feb 14, 2012
+82;MVP Baseball 2004;7.9;Mar 9, 2004
+82;Europa 1400: The Guild;8.6;Nov 18, 2002
+82;Battle Realms;8.6;Nov 7, 2001
+82;Warlords Battlecry;8.2;Jul 9, 2000
+82;Sam & Max Episode 201: Ice Station Santa;8.6;Nov 8, 2007
+82;Technobabylon;7.8;May 21, 2015
+82;World of Warcraft: Mists of Pandaria;4.8;Sep 25, 2012
+82;FIFA 15;4.2;Sep 23, 2014
+82;Recettear: An Item Shop's Tale;8.6;Sep 10, 2010
+82;ETHER One;6.9;Mar 25, 2014
+82;The Vanishing of Ethan Carter;8.1;Sep 25, 2014
+82;Flight Simulator X: Acceleration;7.3;Oct 23, 2007
+82;Blood;9.0;May 31, 1997
+82;Command & Conquer: Red Alert 3;6.8;Oct 28, 2008
+82;The Walking Dead: Episode 1 - A New Day;8.4;Apr 24, 2012
+82;Links 2003;6.8;Sep 16, 2002
+82;Earth & Beyond;7.1;Sep 2, 2002
+82;Syberia;8.5;Sep 1, 2002
+82;Virtual Pool 3;7.3;Nov 14, 2000
+82;The Sims: Livin' Large;6.6;Aug 27, 2000
+82;DCS: Black Shark;8.5;Apr 13, 2009
+82;King's Bounty: Armored Princess;8.7;Sep 10, 2010
+82;Age of Wonders III - Golden Realms;8.5;Sep 18, 2014
+82;Strong Bad's Cool Game for Attractive People Episode 5: 8-Bit Is Enough;7.5;Dec 15, 2008
+82;Prince of Persia;7.2;Dec 2, 2008
+82;Joint Operations: Typhoon Rising;8.7;Jun 15, 2004
+82;Xpand Rally;7.4;Apr 20, 2006
+82;Dark Souls II: Crown of the Sunken King;7.3;Jul 22, 2014
+82;Resident Evil HD Remaster;8.2;Jan 20, 2015
+82;Celtic Kings: Rage of War;8.5;Aug 21, 2002
+82;B-17 Flying Fortress: The Mighty 8th;7.3;Dec 13, 2000
+82;EverQuest: The Scars of Velious;7.8;Dec 4, 2000
+82;Metro: Last Light;8.6;May 14, 2013
+82;Rising Storm;8.5;May 30, 2013
+82;Lethal League;7.4;Aug 27, 2014
+82;Botanicula;8.3;Apr 19, 2012
+82;Pro Evolution Soccer 2015;5.8;Nov 13, 2014
+82;Bookworm Adventures Deluxe;7.9;Dec 20, 2006
+82;The Lord of the Rings: The Battle for Middle-Earth;8.6;Dec 6, 2004
+82;Hitman: Blood Money;8.8;May 30, 2006
+82;Need for Speed: Most Wanted;8.5;Nov 15, 2005
+82;OlliOlli2: Welcome to Olliwood;5.2;Aug 11, 2015
+82;WildStar;7.4;Jun 3, 2014
+82;Broken Age: Act 1;7.7;Jan 28, 2014
+82;Divinity II: The Dragon Knight Saga;8.2;Nov 5, 2010
+82;Out of the Park Baseball 9;7.4;Jun 1, 2008
+82;The Simpsons: Hit & Run;8.0;Nov 13, 2003
+82;America's Army;6.1;Aug 28, 2002
+82;Star Trek Bridge Commander;8.1;Feb 27, 2002
+82;The Last Express;8.9;Mar 31, 1997
+81;Quake 4;7.5;Oct 11, 2005
+81;Nidhogg;7.0;Jan 13, 2014
+81;Battlefield 4;6.0;Oct 29, 2013
+81;To the Moon;8.9;Sep 7, 2012
+81;The Sims 3: World Adventures;8.0;Nov 16, 2009
+81;Painkiller;8.0;Apr 12, 2004
+81;Airborne Assault: Highway to the Reich;6.1;Dec 10, 2003
+81;Nancy Drew: Danger on Deception Island;7.7;Oct 1, 2003
+81;Shadowrun: Hong Kong;7.7;Aug 20, 2015
+81;Supreme Commander: Forged Alliance;8.9;Nov 6, 2007
+81;Sunless Sea;7.4;Jul 1, 2014
+81;The Walking Dead: Season Two Episode 3 - In Harm's Way;8.3;May 13, 2014
+81;Marvel Heroes 2015;7.9;Jun 4, 2014
+81;Football Manager 2016;6.4;Nov 13, 2015
+81;VVVVVV;8.1;Jan 11, 2010
+81;Darksiders II;7.9;Aug 14, 2012
+81;Wolfenstein: The New Order;8.2;May 20, 2014
+81;Lone Survivor;7.2;Apr 23, 2012
+81;Alien: Isolation;8.4;Oct 6, 2014
+81;The Witcher;8.8;Oct 30, 2007
+81;Kentucky Route Zero - Act I;7.5;Jan 7, 2013
+81;Jade Empire: Special Edition;8.3;Feb 26, 2007
+81;SWAT 3: Elite Edition;8.4;Oct 6, 2000
+81;Asheron's Call;8.8;Oct 31, 1999
+81;Unravel;8.1;Feb 9, 2016
+81;Midnight Club II;8.0;Jun 30, 2003
+81;Chessmaster 10th Edition;7.4;Aug 12, 2004
+81;Age of Empires III;7.7;Oct 18, 2005
+81;Tales of Monkey Island Chapter 5: Rise of the Pirate God;8.4;Dec 8, 2009
+81;Castlevania: Lords of Shadow Ultimate Edition;7.3;Aug 27, 2013
+81;Strong Bad's Cool Game for Attractive People Episode 2: Strong Badia the Free;8.2;Sep 15, 2008
+81;The Cat Lady;8.7;Dec 4, 2013
+81;Vessel;7.9;Mar 1, 2012
+81;Metro 2033;8.1;Mar 16, 2010
+81;OutRun 2006: Coast 2 Coast;7.8;Jun 27, 2006
+81;Blur;7.3;May 25, 2010
+81;Empires: Dawn of the Modern World;8.2;Oct 21, 2003
+81;Chessmaster 9000;7.7;Aug 31, 2002
+81;Gothic;8.6;Nov 23, 2001
+81;Arcanum: Of Steamworks and Magick Obscura;8.9;Aug 22, 2001
+81;NASCAR Heat;8.6;Sep 27, 2000
+81;Company of Heroes 2: Ardennes Assault;6.1;Nov 17, 2014
+81;PlanetSide;7.3;May 20, 2003
+81;Tales From The Borderlands: Episode 3 - Catch A Ride;8.4;Jun 23, 2015
+81;The Walking Dead: Season Two Episode 2 - A House Divided;8.6;Mar 4, 2014
+81;Kingdoms of Amalur: Reckoning;6.6;Feb 7, 2012
+81;Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone;8.5;Apr 15, 2010
+81;Borderlands;7.8;Oct 26, 2009
+81;DG2: Defense Grid 2;6.7;Sep 23, 2014
+81;Napoleon: Total War;7.9;Feb 23, 2010
+81;Overlord;8.1;Jun 26, 2007
+81;Firewatch;7.2;Feb 9, 2016
+81;Victoria II: Heart of Darkness;8.7;Apr 16, 2013
+81;Waveform;7.6;Jan 25, 2013
+81;The Elder Scrolls IV: Knights of the Nine;7.5;Nov 21, 2006
+81;Red Orchestra: Ostfront 41-45;8.6;Mar 14, 2006
+81;Stronghold;8.9;Oct 21, 2001
+81;Strong Bad's Cool Game for Attractive People Episode 4: Dangeresque 3: The Criminal Projective;8.5;Nov 17, 2008
+81;Rochard;8.0;Nov 15, 2011
+81;Fallout 3: Broken Steel;7.3;May 5, 2009
+81;Tiger Woods PGA Tour 06;8.1;Sep 20, 2005
+81;RollerCoaster Tycoon 3;4.9;Oct 26, 2004
+81;Dragon's Dogma: Dark Arisen;8.3;Jan 15, 2016
+81;Guild Wars 2: Heart of Thorns;7.3;Oct 23, 2015
+81;AaaaaAAaaaAAAaaAAAAaAAAAA!!! - A Reckless Disregard for Gravity;7.2;Sep 3, 2009
+81;The Sims 2 University;7.8;Feb 28, 2005
+81;Far Cry 3: Blood Dragon;8.1;May 1, 2013
+81;Sid Meier's Civilization: Beyond Earth;5.5;Oct 24, 2014
+81;Disney's Toontown Online;8.7;Oct 6, 2005
+81;Combat Mission 3: Afrika Korps;8.4;Dec 3, 2003
+81;EverQuest: The Planes of Power;8.2;Oct 28, 2002
+81;Rails Across America;8.0;Sep 18, 2001
+81;Wasteland 2;7.3;Sep 19, 2014
+81;Jamestown: Legend of the Lost Colony;7.5;Jun 8, 2011
+81;Call of Duty: Black Ops;5.1;Nov 9, 2010
+81;Kohan II: Kings of War;7.9;Sep 20, 2004
+81;The Age of Decadence;7.9;Oct 15, 2015
+81;Samorost 3;8.3;Mar 24, 2016
+81;Order of Battle: Pacific;6.4;Apr 30, 2015
+81;Empire Earth;8.3;Nov 12, 2001
+81;Star Trek: Deep Space Nine: The Fallen;7.9;Nov 15, 2000
+81;Sam & Max Episode 101: Culture Shock;8.7;Oct 18, 2006
+81;Mirror's Edge (2008);8.1;Jan 12, 2009
+81;TrackMania 2 Canyon;7.7;Sep 14, 2011
+81;Sleeping Dogs;8.2;Aug 14, 2012
+81;Star Wars Jedi Knight: Jedi Academy;8.6;Sep 17, 2003
+81;Mortal Kombat Komplete Edition;8.7;Aug 6, 2013
+81;Shadowrun: Dragonfall;8.3;Feb 27, 2014
+81;Eets;6.4;Mar 29, 2006
+81;World of Warships;6.6;Sep 17, 2015
+81;TOCA Race Driver 2: The Ultimate Racing Simulator;8.0;Apr 15, 2004
+81;Wargame: European Escalation;8.2;Feb 22, 2012
+81;Dungeon Defenders;7.3;Oct 18, 2011
+81;Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep;7.9;Aug 30, 2010
+81;Age of Empires III: The Asian Dynasties;8.5;Oct 23, 2007
+81;Defense Grid: The Awakening;8.8;Jul 29, 2009
+81;Codename: Panzers, Phase One;8.8;Sep 30, 2004
+81;FIFA 16;4.4;Sep 22, 2015
+81;Europa Universalis IV: Conquest of Paradise;7.7;Jan 14, 2014
+81;Ghost Master;8.0;Aug 26, 2003
+81;Divine Divinity;8.5;Sep 22, 2002
+80;The Book of Unwritten Tales 2;7.7;Feb 20, 2015
+80;Galactic Civilizations III;6.6;May 14, 2015
+80;Lovers in a Dangerous Spacetime;7.2;Sep 9, 2015
+80;Age of Conan: Hyborian Adventures;7.3;May 20, 2008
+80;Company of Heroes 2: The Western Front Armies;6.8;Jun 23, 2014
+80;Sid Meier's Civilization V: Gods & Kings;7.7;Jun 19, 2012
+80;Age of Empires III: The WarChiefs;8.1;Oct 17, 2006
+80;Metal Gear Solid V: Ground Zeroes;7.7;Dec 18, 2014
+80;Trials Fusion;6.8;Apr 16, 2014
+80;Syberia II;8.3;Mar 30, 2004
+80;Tom Clancy's Ghost Recon;8.4;Nov 13, 2001
+80;Conquest: Frontier Wars;8.3;Aug 14, 2001
+80;Gabriel Knight 3: Blood of the Sacred, Blood of the Damned;8.8;Oct 5, 1999
+80;Westerado: Double Barreled;7.4;Apr 16, 2015
+80;Anomaly: Warzone Earth;7.3;Apr 8, 2011
+80;Volume;7.2;Aug 18, 2015
+80;GRID 2;5.7;May 27, 2013
+80;The Banner Saga;7.9;Jan 14, 2014
+80;Sam & Max Episode 202: Moai Better Blues;7.7;Jan 10, 2008
+80;Age of Wonders III - Eternal Lords;8.4;Apr 14, 2015
+80;Pro Evolution Soccer 2013;6.8;Sep 25, 2012
+80;Osmos;7.5;Aug 18, 2009
+80;Dungeon Siege II;7.9;Aug 16, 2005
+80;Dead Island;6.8;Sep 6, 2011
+80;Sam & Max Episode 104: Abe Lincoln Must Die!;7.8;Feb 22, 2007
+80;Deus Ex: Invisible War;6.3;Dec 2, 2003
+80;The Sims: Makin' Magic;8.6;Oct 28, 2003
+80;Tom Clancy's Splinter Cell: Double Agent;5.7;Nov 7, 2006
+80;Medal of Honor: Pacific Assault;7.4;Nov 4, 2004
+80;Assassin's Creed: Revelations;7.4;Nov 29, 2011
+80;Grandia II Anniversary Edition;7.6;Aug 24, 2015
+80;Assassin's Creed III;6.2;Nov 20, 2012
+80;Madden NFL 07;7.3;Aug 22, 2006
+80;Outlast;8.4;Sep 4, 2013
+80;The Chronicles of Riddick: Assault on Dark Athena;8.0;Apr 7, 2009
+80;Hearts of Iron II: Doomsday;8.8;Apr 7, 2006
+80;Dishonored: The Brigmore Witches;8.5;Aug 13, 2013
+80;Codename: Panzers, Phase Two;8.0;Jul 25, 2005
+80;Full Spectrum Warrior;7.0;Sep 21, 2004
+80;AI War: Fleet Command;8.4;May 14, 2009
+80;Freedom Fighters;8.3;Oct 1, 2003
+80;NBA Live 2003;8.3;Nov 14, 2002
+80;The Elder Scrolls III: Tribunal;8.2;Nov 6, 2002
+80;Elite: Dangerous;6.4;Dec 16, 2014
+80;Pure;6.9;Sep 16, 2008
+80;Goodbye Deponia;8.1;Oct 17, 2013
+80;SWAT 4: The Stetchkov Syndicate;8.3;Feb 28, 2006
+80;Dropsy;7.3;Sep 10, 2015
+80;Company of Heroes 2: The British Forces;5.9;Sep 3, 2015
+80;Ground Control II: Operation Exodus;8.8;Jun 23, 2004
+80;NBA Live 2004;9.0;Nov 11, 2003
+80;Brutal Legend;7.8;Feb 26, 2013
+80;Tomb Raider: Underworld;7.6;Nov 18, 2008
+80;Oxenfree;7.7;Jan 15, 2016
+80;Titan Quest: Immortal Throne;8.7;Mar 5, 2007
+80;La-Mulana (Remake);7.1;Jul 13, 2012
+80;X-Men Legends II: Rise of Apocalypse;8.4;Sep 20, 2005
+80;SpellForce 2: Shadow Wars;7.6;May 5, 2006
+80;Fritz 8 Deluxe;7.8;Dec 1, 2004
+80;Trine;8.2;Sep 11, 2009
+80;Dishonored: The Knife of Dunwall;8.1;Apr 16, 2013
+80;Company of Heroes 2;2.0;Jun 25, 2013
+80;Natural Selection 2;8.4;Oct 30, 2012
+80;Read Only Memories;7.2;Oct 5, 2015
+80;The Sims 3: Into the Future;5.4;Oct 22, 2013
+80;Borderlands 2: Captain Scarlett and Her Pirate's Booty;7.4;Oct 16, 2012
+80;FATE;8.3;Sep 19, 2006
+80;2002 FIFA World Cup;7.9;Apr 30, 2002
+80;Asheron's Call Dark Majesty;8.1;Nov 4, 2001
+80;The Bug Butcher;8.2;Jan 19, 2016
+80;Dragonshard;7.4;Oct 2, 2005
+80;Icewind Dale: Enhanced Edition;7.6;Oct 30, 2014
+80;The Magic Circle;7.3;Jul 9, 2015
+80;Far Cry 4;6.6;Nov 18, 2014
+80;Super Time Force Ultra;6.6;Aug 25, 2014
+80;Day of Defeat: Source;9.1;Feb 7, 2006
+80;Battlefield 2142;6.8;Oct 17, 2006
+80;World of Tanks;3.8;Sep 6, 2011
+80;Vampire: The Masquerade - Bloodlines;9.0;Nov 16, 2004
+80;Dark Souls II: Scholar of the First Sin;7.4;Apr 1, 2015
+80;Warhammer 40,000: Dawn of War II - Retribution;7.8;Mar 1, 2011
+80;Panzer Corps;7.5;Jul 11, 2011
+80;Men of War;8.1;Mar 16, 2009
+80;Fallen Enchantress: Legendary Heroes;7.7;May 22, 2013
+80;The Walking Dead: Episode 4 - Around Every Corner;8.5;Oct 10, 2012
+80;Tales of Monkey Island Chapter 4: The Trial and Execution of Guybrush Threepwood;8.4;Oct 30, 2009
+80;Penny Arcade Adventures: Episode Two;7.7;Nov 7, 2008
+80;Time Commando;8.9;Jul 31, 1996
+80;Sins of a Solar Empire: Entrenchment;8.1;Feb 25, 2009
+80;F1 2012;6.9;Sep 18, 2012
+80;Luftrausers;6.8;Mar 18, 2014
+80;Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst;7.9;Oct 24, 2013
+80;Stealth Bastard Deluxe;8.3;Nov 28, 2012
+80;Tom Clancy's Ghost Recon Advanced Warfighter;7.7;May 3, 2006
+80;LEGO Batman: The Videogame;7.9;Sep 23, 2008
+80;Stacking;7.9;Mar 6, 2012
+80;Age of Wonders III;7.8;Mar 31, 2014
+80;Life is Strange: Episode 3 - Chaos Theory;9.0;May 19, 2015
+80;The Legend of Heroes: Trails in the Sky SC;8.4;Oct 29, 2015
+80;Proteus;5.6;Jan 30, 2013
+80;Robin Hood: The Legend of Sherwood;8.3;Nov 14, 2002
+80;Soldier of Fortune II: Double Helix;7.3;May 20, 2002
+80;RollerCoaster Tycoon: Loopy Landscapes;9.0;Sep 30, 2000
+80;Toki Tori;7.9;Jan 28, 2010
+80;RoboBlitz;8.3;Nov 7, 2006
+80;Wargame: AirLand Battle;8.1;May 29, 2013
+80;Football Manager 2015;6.0;Nov 7, 2014
+80;The Suffering;8.2;Jun 8, 2004
+80;Gish;7.2;Sep 17, 2004
+80;Axiom Verge;8.2;May 14, 2015
+80;Driver: San Francisco;7.0;Sep 27, 2011
+80;The Corporate Machine;7.5;Jul 14, 2001
+80;Dungeons & Dragons: Chronicles of Mystara;6.7;Jun 18, 2013
+80;Disciples II: Rise of the Elves;8.1;Nov 25, 2003
+80;MechCommander 2;8.3;Jul 18, 2001
+80;Waterloo: Napoleon's Last Battle;7.5;Mar 25, 2001
+80;Chessmaster 8000;6.4;Nov 14, 2000
+80;Circle of Blood;8.6;Sep 30, 1996
+80;BioShock Infinite: Burial at Sea - Episode Two;8.5;Mar 25, 2014
+80;S.T.A.L.K.E.R.: Call of Pripyat;8.7;Feb 2, 2010
+80;The Walking Dead: Season Two - A Telltale Games Series;8.3;Dec 17, 2013
+80;FLY'N;8.2;Nov 9, 2012
+80;Total War: Attila;7.3;Feb 17, 2015
+80;The Wolf Among Us;8.8;Oct 11, 2013
+80;Nancy Drew: Secret of the Old Clock;8.1;Jul 26, 2005
+80;ArcheAge;3.6;Sep 16, 2014
+80;CAPSIZED;7.1;Apr 29, 2011
+80;Microsoft Flight Simulator X;7.6;Oct 17, 2006
+80;Myst V: End of Ages;7.8;Sep 19, 2005
+80;Railroad Tycoon 3;7.7;Oct 23, 2003
+80;Hostile Waters: Antaeus Rising;8.1;Jun 13, 2001
+79;Dustforce;7.9;Jan 17, 2012
+79;Empire Earth II;7.0;Apr 26, 2005
+79;Fallout 3: Point Lookout;7.8;Jun 23, 2009
+79;Test Drive Unlimited;8.1;Mar 20, 2007
+79;Dying Light: The Following;8.3;Feb 9, 2016
+79;The Path;7.0;Mar 18, 2009
+79;Dungeon of the Endless;8.0;Oct 27, 2014
+79;Revenge of the Titans;7.6;May 24, 2010
+79;Bookworm Adventures: Volume 2;7.6;Jul 30, 2009
+79;F1 2001;7.5;Oct 14, 2001
+79;Brothers in Arms: Hell's Highway;7.9;Oct 7, 2008
+79;Star Wars: Empire at War;8.4;Feb 15, 2006
+79;Dariusburst: Chronicle Saviours;8.3;Dec 3, 2015
+79;Europa Universalis: Rome - Vae Victis;8.6;Nov 19, 2008
+79;Silent Hunter: Wolves of the Pacific;6.5;Mar 20, 2007
+79;Pillars of Eternity: The White March - Part 2;6.7;Feb 16, 2016
+79;1701 A.D.;8.3;Nov 6, 2006
+79;Stasis;7.6;Aug 31, 2015
+79;Pro Evolution Soccer 2009;7.4;Nov 12, 2008
+79;Return to Mysterious Island;8.5;Nov 2, 2004
+79;Jotun;7.0;Sep 29, 2015
+79;Else Heart.Break();7.5;Sep 24, 2015
+79;Kohan: Ahriman's Gift;8.7;Nov 5, 2001
+79;Emperor: Battle for Dune;8.3;Jun 12, 2001
+79;Trackmania Turbo;6.9;Mar 24, 2016
+79;Cart Life;5.9;Jul 29, 2010
+79;Sword of the Stars: Born of Blood;8.1;Jun 5, 2007
+79;Worms Reloaded;6.7;Aug 26, 2010
+79;Warhammer: End Times - Vermintide;7.9;Oct 23, 2015
+79;Euro Truck Simulator 2;8.7;Jan 16, 2013
+79;Tropico 3;8.2;Oct 20, 2009
+79;Cities: Skylines - After Dark;7.9;Sep 24, 2015
+79;Runaway: A Twist of Fate;8.5;Apr 21, 2011
+79;Tales of Monkey Island Chapter 1: Launch of the Screaming Narwhal;8.2;Jul 7, 2009
+79;Bloodline Champions;8.0;Jan 13, 2011
+79;The Sims: Superstar;8.2;May 12, 2003
+79;NBA Live 2005;8.5;Oct 26, 2004
+79;Valiant Hearts: The Great War;8.6;Jun 25, 2014
+79;Payday 2;3.4;Aug 13, 2013
+79;Dungeons of Dredmor;7.8;Jul 13, 2011
+79;Geometry Wars 3: Dimensions;6.2;Nov 25, 2014
+79;Assassin's Creed: Director's Cut Edition;7.5;Apr 8, 2008
+79;Puzzle Dimension;7.6;Jun 21, 2010
+79;Split/Second;8.2;May 18, 2010
+79;Sang-Froid: Tales of Werewolves;7.9;Apr 5, 2013
+79;The Incredible Adventures of Van Helsing: Final Cut;7.2;Oct 7, 2015
+79;Hitman: Absolution;7.0;Nov 19, 2012
+79;Call of Juarez: Gunslinger;8.2;May 22, 2013
+79;Rome: Total War Alexander;7.6;Jun 19, 2006
+79;Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands;8.1;Oct 27, 2008
+79;Sam & Max Episode 102: Situation: Comedy;7.9;Dec 20, 2006
+79;Tropico 3: Absolute Power;7.7;May 17, 2010
+79;Sam & Max Episode 106: Bright Side of the Moon;7.3;Apr 26, 2007
+79;Day of Defeat;9.3;May 6, 2003
+79;Space Empires: IV;8.3;Nov 6, 2000
+79;Resident Evil 4: Ultimate HD Edition;7.7;Feb 27, 2014
+79;Sam & Max Episode 203: Night of the Raving Dead;8.2;Feb 12, 2008
+79;FlatOut: Ultimate Carnage;7.6;Sep 2, 2008
+79;Guitar Hero III: Legends of Rock;7.2;Nov 13, 2007
+79;Sid Meier's Civilization: Beyond Earth - Rising Tide;5.9;Oct 9, 2015
+79;Memoria;8.5;Aug 29, 2013
+79;The Last Door;7.8;May 20, 2014
+79;Shadowgrounds Survivor;7.8;Dec 6, 2007
+79;Gothic II;8.8;Oct 28, 2003
+79;Port Royale;8.2;Jun 4, 2003
+79;Deadly Dozen: Pacific Theater;7.9;Oct 31, 2002
+79;Shattered Galaxy;8.3;Aug 21, 2001
+79;Close Combat: Invasion: Normandy;8.2;Oct 10, 2000
+79;King's Bounty: The Legend;8.6;Sep 23, 2008
+79;Rage;5.1;Oct 4, 2011
+79;The Misadventures of P.B. Winterbottom;8.3;Apr 20, 2010
+79;Uru: Ages Beyond Myst;7.4;Nov 11, 2003
+79;Guild Wars: Eye of the North;8.6;Aug 28, 2007
+79;Tales From The Borderlands: Episode 4 - Escape Plan Bravo;8.4;Aug 18, 2015
+79;EverQuest: Lost Dungeons of Norrath;7.0;Sep 8, 2003
+79;Battlefield 1942: Secret Weapons of WWII;8.5;Sep 4, 2003
+79;The Sims: Unleashed;8.0;Sep 23, 2002
+79;Race the Sun;7.5;Aug 19, 2013
+79;The Sims 3: Pets;6.1;Oct 18, 2011
+79;Prototype;7.9;Jun 10, 2009
+79;Stick it to the Man!;7.2;Dec 13, 2013
+79;Street Fighter X Tekken;6.4;May 11, 2012
+79;Frozen Cortex;6.5;Feb 19, 2015
+79;Free Realms;6.4;Apr 29, 2009
+79;Homeworld: Deserts of Kharak;8.0;Jan 20, 2016
+79;Don't Starve;8.3;Apr 23, 2013
+79;Assault Android Cactus;7.0;Sep 23, 2015
+79;Trainz;7.2;Feb 10, 2002
+79;King Arthur: The Role-Playing Wargame;7.9;Nov 24, 2009
+79;Chivalry: Medieval Warfare;7.8;Oct 16, 2012
+79;Overlord II;8.1;Jun 23, 2009
+79;F.E.A.R. 2: Project Origin;7.8;Feb 10, 2009
+79;Tom Clancy's Rainbow Six Siege;6.9;Dec 1, 2015
+79;The Settlers 7: Paths to a Kingdom;5.2;Mar 23, 2010
+79;RollerCoaster Tycoon 3: Soaked!;2.9;Jun 23, 2005
+79;Dark Souls II: Crown of the Old Iron King;7.6;Aug 26, 2014
+79;TrackMania 2 Valley;8.3;Jul 4, 2013
+79;State of Decay;6.8;Nov 5, 2013
+79;LEGO Harry Potter: Years 1-4;7.8;Jun 29, 2010
+79;Rift: Storm Legion;7.8;Nov 13, 2012
+79;Crayon Physics Deluxe;7.6;Jan 7, 2009
+79;Nancy Drew: Legend of the Crystal Skull;8.5;Oct 8, 2007
+79;EverQuest II: Desert of Flames;7.8;Sep 12, 2005
+79;SimCity 4: Rush Hour;8.6;Sep 22, 2003
+79;Uncommon Valor: Campaign for the South Pacific;7.6;Dec 2, 2002
+79;Global Operations;8.3;Mar 25, 2002
+78;Apotheon;7.8;Feb 3, 2015
+78;Need for Speed: Most Wanted - A Criterion Game;4.4;Oct 30, 2012
+78;Star Wars: Battlefront II;8.8;Oct 31, 2005
+78;The Walking Dead: Season Two Episode 1 - All That Remains;8.5;Dec 17, 2013
+78;The Journey Down: Chapter Two;7.1;Aug 25, 2014
+78;Star Trek: Elite Force II;7.6;Jun 25, 2003
+78;Zuma's Revenge!;7.9;Sep 15, 2009
+78;Baldur's Gate: Enhanced Edition;7.0;Nov 28, 2012
+78;Doom 3: Resurrection of Evil;6.0;Apr 4, 2005
+78;LEGO Indiana Jones: The Original Adventures;7.7;Jun 3, 2008
+78;NASCAR Thunder 2004;7.5;Sep 16, 2003
+78;Transformers: Fall of Cybertron;7.8;Aug 21, 2012
+78;FIFA Soccer 06;6.7;Oct 4, 2005
+78;DeadCore;6.8;Oct 17, 2014
+78;The Walking Dead: Season Two Episode 5 - No Going Back;8.5;Aug 26, 2014
