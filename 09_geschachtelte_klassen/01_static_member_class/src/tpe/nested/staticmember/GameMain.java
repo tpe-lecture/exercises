@@ -13,7 +13,7 @@ public class GameMain extends MainWindow {
      * Neues Spiel anlegen.
      */
     public GameMain() {
-        super("Click Alien", new GameBoard());
+        super("Click Alien - (01) Static Member", new GameBoard());
     }
 
     /**

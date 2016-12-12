@@ -1,4 +1,4 @@
-# Aufgabe: `List<T>` und dessen Implementierungen 
+# Aufgabe: `List<T>` und dessen Implementierungen
 
 ## Lernziel
 
@@ -20,7 +20,7 @@ Lassen Sie das Programm laufen und betrachten Sie die Ausgabe. Schauen Sie sich 
 
 Ändern Sie die Klasse nun so, dass anstatt Arrays `List<T>` und deren Implementierungen verwendet werden. Ändern Sie die Schnittstellen und Parameter der Methoden von `String[]` auf `List<String>`. Modifizieren Sie auch die Implementierung der Methoden und versuchen Sie Arrays wo immer möglich durch Listen zu ersetzen. Schauen Sie sich auch die JavaDoc der Klassen `java.util.Arrays` und `java.util.Collections` an, um möglicherweise sehr hilfreiche Methoden zu finden.
 
-__Hinweis:__ Die Konstruktion `String[] words = line.toLowerCase().split("[,. ]");` können Sie nicht durch Listen ersetzen, dass die `split`-Methode Arrays verwendet.
+__Hinweis:__ Die Konstruktion `String[] words = line.toLowerCase().split("[,. ]");` können Sie nicht durch Listen ersetzen, da die `split`-Methode Arrays verwendet.
 
 
 ## Abgabe
