@@ -20,7 +20,7 @@ Implementieren Sie daher mit der Klasse `Ufo` das Interface `Runnable` und führ
 
   1. x-Position des Ufos um eins erhöhen
   2. für `sleepTime` Millisekunden schlafen
-  3. die Vorgänge 1-2 wiederholen, solange sich das Ufo innerhalb des Spielfeldes befinden, d.h. die x-Position kleiner als die breite des Spielfelds ist
+  3. die Vorgänge 1-2 wiederholen, solange sich das Ufo innerhalb des Spielfeldes befinden, d.h. die x-Position kleiner als die Breite des Spielfelds ist
 
 Nachdem Sie diese Änderungen vorgenommen haben, müssen Sie noch in `GameBoard` die auskommentierten Zeilen einkommentieren, welche für das Starten der Threads zuständig sind. (Siehe die entsprechenden TODO-Kommentare, im Quelltext).
 
